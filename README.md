@@ -15,10 +15,10 @@
   
 ## Low Fidelity Wireframe:  
   
-[![Algo Filipino Low Fidelity Wireframe](/Low_Fidelity.png)](https://www.figma.com/file/63fpTaJGjoVcwevKCmTNmg/Algo-Filipino-Website-(LoFi-%26-HiFi)?node-id=3%3A234&t=gZaAq7njVoMY7uuH-1)  
+[![Algo Filipino Low Fidelity Wireframe](/images/Low_Fidelity.png)](https://www.figma.com/file/63fpTaJGjoVcwevKCmTNmg/Algo-Filipino-Website-(LoFi-%26-HiFi)?node-id=3%3A234&t=gZaAq7njVoMY7uuH-1)  
   
 ---
   
 ## High Fidelity Wireframe:  
   
-[![Algo Filipino High Fidelity Wireframe](/High_Fidelity.png)](https://www.figma.com/file/63fpTaJGjoVcwevKCmTNmg/Algo-Filipino-Website-(LoFi-%26-HiFi)?node-id=3%3A234&t=gZaAq7njVoMY7uuH-1)  
+[![Algo Filipino High Fidelity Wireframe](/images/High_Fidelity.png)](https://www.figma.com/file/63fpTaJGjoVcwevKCmTNmg/Algo-Filipino-Website-(LoFi-%26-HiFi)?node-id=3%3A234&t=gZaAq7njVoMY7uuH-1)  
